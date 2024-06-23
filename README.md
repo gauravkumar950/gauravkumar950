@@ -1,8 +1,7 @@
- <h1 align="center">Hi 👋, I'm Kishan</h1>
+ <h1 align="center">Hi 👋, I'm Gaurav</h1>
 
 - 🔭 CS Undergrad at National Institute of Engineering, Mysore,India
-- 💬 Ask me anything about Web Dev
-- 📫 Reach me at: kishanvats2003@gmail.com
+- 📫 Reach me at: therock950400@gmail.com
   
 ### Connect with me:
 <div id="badges">
@@ -11,16 +10,13 @@
   <a href="https://github.com/vatskishan03">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://twitter.com/kishanvats03">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+   </div>
 
 ### Languages,Tools and Databases:
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,rust,react,next,express,nodejs,postgresql,mongodb,mysql,aws,azure,vercel,prisma,tailwind,bootstrap,html,css,docker,python,c,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,figma&perline=6)](https://skillicons.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vatskishan03&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkumar950&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatskishan03&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar950&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=vatskishan03&style=flat)
+![](https://komarev.com/ghpvc/?username=gauravkumar950&style=flat)
