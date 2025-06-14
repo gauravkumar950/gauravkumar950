@@ -13,7 +13,7 @@
    </div>
 
 ### Languages,Tools and Databases:
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,kafka,mysql,mongodb,springbootfigma&perline=6)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkumar950&show_icons=true&theme=dark)
 
